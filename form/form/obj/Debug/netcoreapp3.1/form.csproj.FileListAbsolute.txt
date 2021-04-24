@@ -1,0 +1,16 @@
+C:\Users\Njomza\source\repos\form\form\bin\Debug\netcoreapp3.1\form.exe
+C:\Users\Njomza\source\repos\form\form\bin\Debug\netcoreapp3.1\form.deps.json
+C:\Users\Njomza\source\repos\form\form\bin\Debug\netcoreapp3.1\form.runtimeconfig.json
+C:\Users\Njomza\source\repos\form\form\bin\Debug\netcoreapp3.1\form.runtimeconfig.dev.json
+C:\Users\Njomza\source\repos\form\form\bin\Debug\netcoreapp3.1\form.dll
+C:\Users\Njomza\source\repos\form\form\bin\Debug\netcoreapp3.1\form.pdb
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.csprojAssemblyReference.cache
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.steganografia.resources
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.Properties.Resources.resources
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.csproj.GenerateResource.cache
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.AssemblyInfoInputs.cache
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.AssemblyInfo.cs
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.csproj.CoreCompileInputs.cache
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.dll
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.pdb
+C:\Users\Njomza\source\repos\form\form\obj\Debug\netcoreapp3.1\form.genruntimeconfig.cache
