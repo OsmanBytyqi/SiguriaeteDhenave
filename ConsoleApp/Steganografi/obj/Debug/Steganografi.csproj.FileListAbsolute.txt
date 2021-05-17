@@ -1,0 +1,10 @@
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\bin\Debug\Steganografi.exe.config
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\bin\Debug\Steganografi.exe
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\bin\Debug\Steganografi.pdb
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.csprojAssemblyReference.cache
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.csproj.CoreCompileInputs.cache
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.exe
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.pdb
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.Program.resources
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+C:\Users\jd\Desktop\ConsoleApp\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.cache
