@@ -148,6 +148,42 @@ namespace Steganografi
         private void button1_Click(object sender, EventArgs e)
         {
             //Butoni per enkodim
+            Bitmap img = new Bitmap(textBox2.Text);
+            //looping pixels of img
+            for(int i = 0; i < img.Width; i++)
+            {
+                for(int j = 0; j < img.Height; j++)
+                {
+                    //each pixel consist RGB value
+                    Color pixel = img.GetPixel(i, j);
+                    if (i < 1 && j < textBox1.TextLength)
+                    {
+
+                        char letter = Convert.ToChar(textBox1.Text.Substring(j, 1));
+                        int value = Convert.ToInt32(letter);
+                        Console.WriteLine("letter:"+letter+"value:" + value);
+
+                        img.SetPixel(i, j, Color.FromArgb(pixel.R, pixel.G, value));
+
+                    }
+
+                    if (i == img.Width - 1 && j == img.Height - 1)
+                    {
+                        img.SetPixel(i, j, Color.FromArgb(pixel.R, pixel.G, textBox1.TextLength));
+                    }
+                }
+            }
+            SaveFileDialog saveFile = new SaveFileDialog();
+            saveFile.Filter = "Image Files (*.png, *.jpg) | *.png; *.jpg";
+            saveFile.InitialDirectory = @"C:\Users\Jd\Desktop";
+
+            if (saveFile.ShowDialog() == DialogResult.OK)
+            {
+                textBox2.Text = saveFile.FileName.ToString();
+                pictureBox1.ImageLocation = textBox2.Text;
+
+                img.Save(textBox2.Text);
+            }
             
         }
     }
