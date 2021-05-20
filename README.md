@@ -112,7 +112,7 @@
 ---
 <br/>
 
-##  License & CopyRigh
+##  License & CopyRight
 
  
  © Osman Bytyqi 2021
